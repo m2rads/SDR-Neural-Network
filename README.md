@@ -1,3 +1,7 @@
+
+![Screenshot 2023-07-15 at 1 55 52 PM](https://github.com/m2rads/SDR-Neural-Network/assets/79536486/f15fe330-fae8-4fc2-9558-f33395341030)
+
+
 ## Neural Network Training Project
 This project aims to enhance your machine learning skills by providing a comprehensive understanding of neural networks, their purpose, structure, and training process. In this course, instructed by Eduardo Corpeño, you will embark on a project-based learning journey where you will create an intelligent system using a neural network entirely from scratch using C++. Additionally, you will learn how to select the appropriate neural network architecture and training method for various problem domains.
 
